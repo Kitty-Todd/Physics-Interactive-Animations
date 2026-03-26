@@ -1,4 +1,4 @@
-FROM manimcommunity?manim:v0.18.0
+FROM manimcommunity/manim:v0.18.0
 
 USER root
 
